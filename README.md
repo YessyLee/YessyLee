@@ -5,6 +5,9 @@ I am tech & data enthusiast who is passionate in creating effective & efficient 
 
 ### I am a 2023 She Codes Plus alumni who is highly motivated and ready to tackle my first role in tech as a developer!
 
+Checkout my portfolio here
+https://yessy-lee.netlify.app/
+
 <!--
 **YessyLee/YessyLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
