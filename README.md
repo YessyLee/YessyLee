@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Yessy and I am a junior developer looking for an opportunity in the software development roles, either in the frontend, backend or both. I am a 2023 She Codes Plus alumni who is highly motivated and ready to tackle my first role in tech as a developer!
+### My name is Yessy, I am a junior developer looking for an opportunity in the software development roles, either in the frontend, backend or both. I am a 2023 She Codes Plus alumni who is highly motivated and ready to tackle my first role in tech as a developer!
 
 Tech & data enthusiast who is passionate in creating effective & efficient system through simplicity, automation & innovation. I am a driven Marketing professional currently undertaking extensive learning in Data Science & Software Development to further develop & complement my skills. I am a forward thinker & curious individual who always strive for continuous improvement. Experience in data analysis, complex statistical reporting, Python, Django/DRF, SQL, HTML/CSS, React, JavaScript, Power BI, Advanced Excel & more to offer.
 
