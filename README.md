@@ -5,7 +5,7 @@ Tech & data enthusiast who is passionate in creating effective & efficient syste
 
 - ⚡Checkout my portfolio here: https://yessy-lee.netlify.app/
 - 📫 How to reach me: yessy.rayner@gmail.com
-- 🌱 I’m currently learning: React.js and going to build a shopping cart app, wish me luck ✨
+- 🌱 I’m currently learning: JavaScript, TypeScript and going to build Amazon shopping app as part of my portfolio, wish me luck ✨
 
 <!--
 **YessyLee/YessyLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
